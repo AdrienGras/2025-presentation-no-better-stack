@@ -37,8 +37,8 @@ theme:
 
 C'est quoi le meilleur langage pour... ?
 ===
-
-![](./assets/meme01.png)
+<!-- new_lines: 3 -->
+![image:width:50%](./assets/meme01.png)
 
 <!-- end_slide -->
 <!-- font_size: 3 -->
@@ -47,11 +47,9 @@ La réalité du terrain
 ===
 
 <!-- pause -->
-- <span style="color: palette:cyan">**5%**</span> Écrire du code
+- <span style="color: palette:cyan">**10%**</span> Écrire du code
 <!-- pause -->
-- <span style="color: palette:pink">**5%**</span> Gérer les tickets
-<!-- pause -->
-- <span style="color: palette:blue">**10%**</span> Essayer de se comprendre avec le product manager
+- <span style="color: palette:blue">**15%**</span> Essayer de faire comprendre au product manager (ou au client) que le ticket #125 ne ne prend pas **QUE** 3h
 <!-- pause -->
 - <span style="color: palette:red">**75%**</span> NullPointerException at line 55
 <!-- pause -->
@@ -63,5 +61,79 @@ La réalité du terrain
 *Fatal error: Attempt to access property on null*  
 *...*
 
+<!-- end_slide -->
+
+<!-- font_size: 3 -->
+Des trucs absurdes… mais qui tournent
+===
+
+<!-- font_size: 2 -->
+
+* <span style="color: palette:cyan">**Minecraft** développé avec **Java**</span>
+  * *Configuration minimale: 2000€*
+<!-- pause -->
+<!-- new_lines: 1 -->
+* <span style="color: palette:cyan">**Le backend de Facebook** développé avec **PHP** *(avec HHVM)*</span>
+  * *Askip c'est un langage mort depuis 15 ans*
+<!-- pause -->
+<!-- new_lines: 1 -->
+* <span style="color: palette:cyan">**Le backend de Whatsapp** développé avec **Erlang**</span>
+  * *C'est le même langage qui propulse les feux rouges*
+<!-- pause -->
+<!-- new_lines: 1 -->
+* <span style="color: palette:cyan">**Le RER A (Île-de-France)** développé avec **COBOL** et **Fortran**</span>
+  * *...quand ton passe Navigo dépend d’un mainframe IBM des années 70*
+<!-- pause -->
+<!-- new_lines: 1 -->
+* <span style="color: palette:cyan">**La majorité des banques & assurances** utilisent **COBOL**</span>
+  * *Il y a plus de COBOL en prod aujourd’hui qu’en 1980... Et plus personne ne sait le maintenir*
 
 <!-- end_slide -->
+
+<!-- font_size: 3 -->
+Le bon langage, c’est celui qui coche les bonnes cases
+===
+
+<!-- font_size: 2 -->
+
+* <span style="color: palette:green">**L'équipe le connaît**</span>
+  * Moins de bugs, montée en charge rapide
+<!-- pause -->
+<!-- new_lines: 1 -->
+* <span style="color: palette:green">**Il est déjà en place**</span>
+  *	Moins de friction, moins de coût
+<!-- pause -->
+<!-- new_lines: 1 -->
+* <span style="color: palette:green">**Il est maintenable dans le temps**</span>
+  * On pense à la personne qui passera derrière
+<!-- pause -->
+<!-- new_lines: 1 -->
+* <span style="color: palette:green">**Il a une bonne communauté**</span>
+  * Stack Overflow = support non-officiel mais vital
+<!-- pause -->
+<!-- new_lines: 1 -->
+* <span style="color: palette:green">**Il fait le job**</span>
+  * Si la prod tourne, on a déjà gagné
+
+<!-- end_slide -->
+
+<!-- font_size: 3 -->
+Conclusion
+===
+<!-- new_lines: 2 -->
+
+![image:width:35%](./assets/meme02.png)
+
+<!-- end_slide -->
+
+<!-- font_size: 3 -->
+Conclusion
+===
+
+<!-- alignment: center -->
+<!-- new_lines: 4 -->
+<!-- font_size: 2 -->
+*<span style="color: palette:blue">**"Il n'y a que deux sortes de langages de programmation : ceux dont les gens disent toujours du mal et ceux que personne n'utilise."**</span>*
+<!-- new_lines: 1 -->
+<!-- alignment: right -->
+Bjarne Stroustrup - créateur de C++
